@@ -1,7 +1,8 @@
 body{
     background-color: aqua;
-    color:rgba(15, 4, 103, 0.938)
-
+    color:rgba(15, 4, 103, 0.938);
+    margin: 10px;
+    padding: 5px;
 } 
 textarea{
     width:320px;
@@ -27,4 +28,10 @@ div{
     width: 300px;
     height: 550px;
     background-color: blue;
+}
+input{
+    background-color: rgb(138, 138, 246);
+    text-align: center;
+    color:rgb(11, 12, 11);
+    
 }
