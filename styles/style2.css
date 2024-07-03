@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+    color:rgba(15, 4, 103, 0.938)
+
+} 
+textarea{
+    width:320px;
+    height:50px
+}
+table{
+    background-color: #37f857c4;
+}
+p{
+    position: fixed;
+    bottom:o;
+    right:0;
+    left:o;
+    margin:auto;
+}
+h1{
+    text-align: center;
+    background-color: yellow;
+    margin-top: 20px;
+   
+}
+div{
+    width: 300px;
+    height: 550px;
+    background-color: blue;
+}
